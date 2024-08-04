@@ -3,15 +3,15 @@ Hi, Muhammad Abdullah Akram here 👋
 
 I’m interested in problem-solving. My skillset spans:
 
-- Mobile App Development: Native (Android/Java/Kotlin), Hybrid (Flutter/Dart)
+- **Mobile App Development**: Native (Android/Java/Kotlin), Hybrid (Flutter/Dart)
   
-- Backend Development: Java/Spring Boot, PHP, Node.js
+- **Backend Development**: Java/Spring Boot, PHP, Node.js
 
-- Database Management: Oracle, MySQL, Firebase, MongoDB
+- **Database Management**: Oracle, MySQL, Firebase, MongoDB
   
-- Image Processing: Python/OpenCV
+- **Image Processing**: Python/OpenCV
 
-- DevOps: Docker, GitLab CI/CD
+- **DevOps**: Docker, GitLab CI/CD
 
 
 👯 I’m looking to collaborate on any projects where my skills could be utilized.
