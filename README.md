@@ -1,7 +1,28 @@
-👋 Hi, Muhammad Abdullah Akram here.
+Hi, Muhammad Abdullah Akram here 👋
+👀 I’m interested in problem-solving. My expertise covers:
 
-👀 I’m interested in development. (Android, Web (MERN), Database(Oracle, MySql, Firebase)) + Image Processing(Python).
+Mobile App Development:
+  Native (Android/Java/Kotlin)
+  Hybrid (Flutter/Dart)
+  
+Backend Development:
+  Java/Spring Boot
+  PHP
+  Node.js
+  
+Database Management:
+  Oracle
+  MySQL
+  Firebase
+  MongoDB
+  
+Image Processing:
+  Python/OpenCV
 
-👯 I’m looking to collaborate on any task where my skills could be utilized.
+DevOps:
+  Docker
+  GitLab CI/CD
+  
+👯 I’m looking to collaborate on any projects where my skills could be utilized.
 
-⚡ Fun fact:  I think of myself as a perfectionist and do not give up until I get something right
+⚡ Fun fact: I think of myself as a problem-solver, ready to leverage any technology stack.
