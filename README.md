@@ -1,5 +1,6 @@
 Hi, Muhammad Abdullah Akram here 👋
-👀 I’m interested in problem-solving. My expertise covers:
+
+👀 I’m interested in problem-solving. My skillset spans:
 
 Mobile App Development:
   Native (Android/Java/Kotlin)
